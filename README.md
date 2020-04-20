@@ -33,7 +33,7 @@ optimization algorithms (here called *tuning strategies*) into MLJ,
 either by adding code to [/src/strategies](/src/strategies), or by
 importing MLJTuning into a third-pary package and implementing
 MLJTuning's [tuning strategy
-interface](#implementing-a-new-tuning-strategy).
+interface](/README.md#implementing-a-new-tuning-strategy).
   
 MLJTuning is a component of the [MLJ
   stack](https://github.com/alan-turing-institute/MLJ.jl#the-mlj-universe)
